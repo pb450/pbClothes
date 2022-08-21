@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "CitizenFX.Core.Server/1.0.5812": {
+        "type": "package",
+        "compile": {
+          "lib/net45/CitizenFX.Core.Server.dll": {}
+        },
+        "runtime": {
+          "lib/net45/CitizenFX.Core.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CitizenFX.Core.Server/1.0.5812": {
+      "sha512": "pTy2GKM5U2wgdq1G2ToHGAz8FppyK/Ibz3JNuwEQ7xISkY8qV0KCQqVKUgnPb3cXB/d4bmFCMo5hfquhpT2Q1g==",
+      "type": "package",
+      "path": "citizenfx.core.server/1.0.5812",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "citizenfx.core.server.1.0.5812.nupkg.sha512",
+        "citizenfx.core.server.nuspec",
+        "lib/net45/CitizenFX.Core.Server.dll",
+        "lib/net45/CitizenFX.Core.Server.xml",
+        "lib/netstandard20/CitizenFX.Core.Server.dll",
+        "lib/netstandard20/CitizenFX.Core.Server.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "CitizenFX.Core.Server >= 1.0.5812"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kacper\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kacper\\source\\repos\\uiClothes\\uiClothes.Server\\uiClothes.Server.csproj",
+      "projectName": "uiClothes.Server.net",
+      "projectPath": "C:\\Users\\Kacper\\source\\repos\\uiClothes\\uiClothes.Server\\uiClothes.Server.csproj",
+      "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kacper\\source\\repos\\uiClothes\\uiClothes.Server\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "targetAlias": "net461",
+        "dependencies": {
+          "CitizenFX.Core.Server": {
+            "target": "Package",
+            "version": "[1.0.5812, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

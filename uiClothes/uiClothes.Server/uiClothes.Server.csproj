@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+    <AssemblyName>$(MSBuildProjectName).net</AssemblyName>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="COPY &quot;$(TargetPath)&quot; &quot;C:\Users\Kacper\Desktop\SimpleRP\server\server-data\resources\[pbScripts]\pbClothes&quot;" />
+  </Target>
+
+  <ItemGroup>
+    <PackageReference Include="CitizenFX.Core.Server" Version="1.0.5812" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+
+</Project>

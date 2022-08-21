@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhlS5W6sx0w1scHVLy+eoxMJnJIPTCFAAYlEIcLg5ZxvsDaJttkaldRzzDpIlzo8qvGvstVZUaLhkP7gmOmebg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\source\\repos\\uiClothes\\uiClothes\\uiClothes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\citizenfx.core.client\\1.0.5793\\citizenfx.core.client.1.0.5793.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

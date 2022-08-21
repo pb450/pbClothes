@@ -1,0 +1,13 @@
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\bin\Debug\net461\uiClothes.net.dll
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\bin\Debug\net461\uiClothes.net.pdb
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\bin\Debug\net461\CitizenFX.Core.Client.dll
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.csproj.CopyComplete
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.net.dll
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\obj\Debug\net461\uiClothes.net.pdb
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\Kacper\source\repos\uiClothes\uiClothes\bin\Debug\net461\Newtonsoft.Json.xml

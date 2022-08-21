@@ -1,0 +1,11 @@
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\bin\Debug\net461\uiClothes.Server.net.dll
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\bin\Debug\net461\uiClothes.Server.net.pdb
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\bin\Debug\net461\CitizenFX.Core.Server.dll
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.csproj.CopyComplete
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.net.dll
+C:\Users\Kacper\source\repos\uiClothes\uiClothes.Server\obj\Debug\net461\uiClothes.Server.net.pdb

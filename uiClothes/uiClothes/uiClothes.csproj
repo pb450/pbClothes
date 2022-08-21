@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+    <AssemblyName>$(MSBuildProjectName).net</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CitizenFX.Core.Client" Version="1.0.5793" />
+	  <PackageReference Include="Newtonsoft.Json" Version="12.0.2" ExcludeAssets="Compile" GeneratePathProperty="true" />
+	  <Reference Include="Microsoft.CSharp" />
+	  <Reference Include="Newtonsoft.Json">
+		  <HintPath>$(PkgNewtonsoft_Json)\lib\portable-net40+sl5+win8+wp8+wpa81\Newtonsoft.Json.dll</HintPath>
+	  </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="COPY &quot;$(TargetPath)&quot; &quot;C:\Users\Kacper\Desktop\SimpleRP\server\server-data\resources\[pbScripts]\pbClothes&quot;" />
+  </Target>
+
+</Project>
